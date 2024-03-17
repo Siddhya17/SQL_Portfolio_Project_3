@@ -1,1 +1,2 @@
-# SQL_Portfolio_Project_3
+This project analyzes Twitter data to extract insights and trends from tweets. The dataset includes information such as user demographics, tweet IDs, engagement metrics, sentiment analysis, and more. The SQL queries in this project can be used to perform various analyses, such as understanding user behavior, identifying popular tweets, and exploring sentiment patterns.
+# SQL_Portfolio_Project_3 #Twitter
